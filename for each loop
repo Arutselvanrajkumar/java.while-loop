@@ -1,0 +1,8 @@
+public class Main{
+ public static void main(String[]agrs){
+  String[] laptops={"mac","lenova","hp","dell"};
+   for(String i : laptops){
+    System.out.println(i);
+    }
+    }
+    }
